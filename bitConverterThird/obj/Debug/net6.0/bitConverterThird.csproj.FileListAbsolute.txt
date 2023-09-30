@@ -1,0 +1,14 @@
+D:\codes\codes for uni\bitConverterThird\bitConverterThird\bin\Debug\net6.0\bitConverterThird.exe
+D:\codes\codes for uni\bitConverterThird\bitConverterThird\bin\Debug\net6.0\bitConverterThird.deps.json
+D:\codes\codes for uni\bitConverterThird\bitConverterThird\bin\Debug\net6.0\bitConverterThird.runtimeconfig.json
+D:\codes\codes for uni\bitConverterThird\bitConverterThird\bin\Debug\net6.0\bitConverterThird.dll
+D:\codes\codes for uni\bitConverterThird\bitConverterThird\bin\Debug\net6.0\bitConverterThird.pdb
+D:\codes\codes for uni\bitConverterThird\bitConverterThird\obj\Debug\net6.0\bitConverterThird.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\codes for uni\bitConverterThird\bitConverterThird\obj\Debug\net6.0\bitConverterThird.AssemblyInfoInputs.cache
+D:\codes\codes for uni\bitConverterThird\bitConverterThird\obj\Debug\net6.0\bitConverterThird.AssemblyInfo.cs
+D:\codes\codes for uni\bitConverterThird\bitConverterThird\obj\Debug\net6.0\bitConverterThird.csproj.CoreCompileInputs.cache
+D:\codes\codes for uni\bitConverterThird\bitConverterThird\obj\Debug\net6.0\bitConverterThird.dll
+D:\codes\codes for uni\bitConverterThird\bitConverterThird\obj\Debug\net6.0\refint\bitConverterThird.dll
+D:\codes\codes for uni\bitConverterThird\bitConverterThird\obj\Debug\net6.0\bitConverterThird.pdb
+D:\codes\codes for uni\bitConverterThird\bitConverterThird\obj\Debug\net6.0\bitConverterThird.genruntimeconfig.cache
+D:\codes\codes for uni\bitConverterThird\bitConverterThird\obj\Debug\net6.0\ref\bitConverterThird.dll
